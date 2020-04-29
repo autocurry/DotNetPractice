@@ -1,0 +1,6 @@
+E:\Automation\Selenium\Wehelp Bank\Wehelp Bank\bin\Debug\Wehelp Bank.exe.config
+E:\Automation\Selenium\Wehelp Bank\Wehelp Bank\bin\Debug\Wehelp Bank.exe
+E:\Automation\Selenium\Wehelp Bank\Wehelp Bank\bin\Debug\Wehelp Bank.pdb
+E:\Automation\Selenium\Wehelp Bank\Wehelp Bank\obj\Debug\Wehelp Bank.csprojResolveAssemblyReference.cache
+E:\Automation\Selenium\Wehelp Bank\Wehelp Bank\obj\Debug\Wehelp Bank.exe
+E:\Automation\Selenium\Wehelp Bank\Wehelp Bank\obj\Debug\Wehelp Bank.pdb
